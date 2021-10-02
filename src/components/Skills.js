@@ -19,7 +19,7 @@ function Skills() {
                         <ProgressBar 
                             title={'User support'}
                             width={'100%'}
-                            text={'10%'}
+                            text={'100%'}
                         />
                         <ProgressBar 
                             title={'Networking'}

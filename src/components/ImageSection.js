@@ -16,7 +16,6 @@ function ImageSection() {
                 <div className="about-info">
                     <div className="info-title">
                         <p>Full Name</p>
-                        <p>Age</p>
                         <p>Nationality </p>
                         <p>Languages </p>
                         <p>Location</p>
@@ -24,7 +23,6 @@ function ImageSection() {
                     </div>
                     <div className="info">
                         <p>: Edgar Mugambi</p>
-                        <p>: 22</p>
                         <p>: Kenyan </p>
                         <p>: English & Kiswahili</p>
                         <p>: Nairobi</p>

@@ -18,12 +18,7 @@ function Resume() {
                     <SmallTitle icon={briefcase} title={'Working Experience'} />
                 </div>
                 <div className="resume-content">
-                     <ResumeItem 
-                        year={'March 2023 - Present'} 
-                        title={'Independent Data Consultant'}
-                        subTitle={'Data Consultant'}
-                        text={'Interpreting data analyses and developing action plans accordingly and assist in making strategic data-related decisions by analyzing,Interpreting the results of data analysis and translating them into actionable insights and recommendations for business stakeholders, manipulating, tracking, internally managing, and reporting data, Analysis and interpretation of quantitative and qualitative data using statistical software,Data entry and cleaning to ensure data quality,Provide technical assistance on data management and analysis,Ability to use data to tell a story of customer experience, highlighting both successes and friction points to inform future initiatives and strategies,  Ensuring data accuracy, consistency, and security throughout the data analysis process'} 
-                    />
+                   
                 <ResumeItem 
                         year={'January 2022 - March 2023'} 
                         title={'ICT Analyst'}

@@ -1,36 +1,38 @@
-import css1 from '../img/portImages/cv_css.png';
 import css2 from '../img/portImages/hotel.PNG';
 import react1 from '../img/portImages/react_styled.png';
-
 import img3 from '../img/portImages/dolla.PNG';
+import pl from '../img/portImages/pl.png';
+import avatar from '../img/portImages/avatar.jpg';
+import ufc from '../img/portImages/ufc.jpg';
+import police from '../img/portImages/police.jpg';
+import maize from '../img/portImages/maize.jpg';
+
+
 
 const portfolios = [
     {
         id: 1,
-        category: 'CSS',
-        image: css1,
-        link1: 'https://www.google.com',
-        link2: 'https://www.google.com',
-        title: 'Responsive Resume',
-        text: 'Created with React.'
+        category: 'Data Analysis',
+        image: avatar,
+        link1: 'https://edgarmugambi.shinyapps.io/avatar/?_ga=2.27141758.2102410902.1683657952-51971680.1682322687',
+        title: 'Reactive Shiny dashboard',
+        text: 'Created with R to predict the speaker of the message and personality'
     },
     {
         id: 2,
-        category: 'CSS',
+        category: 'React',
         image: img3,
         link1: 'https://app.netlify.com/sites/dollarbank/overview',
-        link2: 'https://app.netlify.com/sites/dollarbank/overview',
         title: 'Dollar bank',
         text: 'Web Application'
     },
     {
-        id: 3,
-        category: 'React JS',
-        image: img3,
-        link1: 'https://app.netlify.com/sites/dollarbank/overview',
-        link2: 'https://app.netlify.com/sites/dollarbank/overview',
-        title: 'How To make it responsive',
-        text: 'Web application'
+        id: 4,
+        category: 'Data Analysis',
+        image: pl,
+        link1: 'https://edgarmugambi.shinyapps.io/eplGame/?_ga=2.180402531.531471333.1683550421-51971680.1682322687',
+        title: 'EPL visualization and prediction',
+        text: 'It contains data of the premier league between 1992 - 2022'
     },
     
     
@@ -38,20 +40,43 @@ const portfolios = [
         id: 6,
         category: 'React',
         image: react1,
-        link1: 'https://www.google.com',
-        link2: 'https://www.google.com',
+        link1: 'https://eddgarmugambi.netlify.app/',
         title: 'Responsive Portfolio Website',
-        text: 'Created using different technologies such as Material UI, Styled-Components and more...'
+        text: 'This is a portfolio website'
     },
     {
         id: 7,
-        category: 'CSS',
+        category: 'React',
         image: css2,
         link1: 'https://edgarestaurant.netlify.app/',
-        link2: 'https://edgarestaurant.netlify.app/',
         title: 'Restaurant Website',
-        text: 'Created using HTML and CSS'
+        text: 'Created via  React'
+    },
+    {
+        id: 8,
+        category: 'Data Analysis',
+        image: ufc,
+        link1: 'https://edgarmugambi.shinyapps.io/ufcfight/',
+        title: 'Data Analysis on UFC',
+        text: 'Created with R and contains UFC info'
+    },
+    {
+        id: 9,
+        category: 'Data Analysis',
+        image: police,
+        link1: 'https://edgarmugambi.shinyapps.io/arrest/',
+        title: 'Data Analysis on arrest in USA',
+        text: 'It gives a brief summary of the arrests '
+    },
+    {
+        id: 10,
+        category: 'Data Analysis',
+        image: maize,
+        link1: 'https://edgarmugambi.shinyapps.io/Maize/?_ga=2.120686410.398939380.1684150047-101558797.1684150047',
+        title: 'Maize production between 2012-2018',
+        text: 'It gives a brief summary of the arrests '
     }
+    
 ]
 
 export default portfolios;

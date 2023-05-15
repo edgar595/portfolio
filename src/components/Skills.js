@@ -27,17 +27,17 @@ function Skills() {
                             text={'80%'}
                         />
                         <ProgressBar 
-                            title={'Artificial intelligence'}
-                            width={'60%'}
+                            title={'Machine Learning'}
+                            width={'100%'}
                             text={'60%'}
                         />
                         <ProgressBar 
-                            title={'DataBase managment'}
+                            title={'Data analysis'}
                             width={'95%'}
                             text={'95%'}
                         />
                         <ProgressBar 
-                            title={'Digital marketing and google analytics'}
+                            title={'ICT Security'}
                             width={'75%'}
                             text={'75%'}
                         />

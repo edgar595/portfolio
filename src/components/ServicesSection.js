@@ -15,8 +15,8 @@ function ServicesSection() {
                 <div className="services">
                     <ServiceCard 
                         image={design} 
-                        title={'Web Design'} 
-                        paragraph={'I have specialized in React, HTML, CSS ,phython and JavaSCRIPT. Having created a few projects'}
+                        title={'Data Analysis'} 
+                        paragraph={'I have specialized in R, phython and excel. Having created a few projects'}
                     />
                     <div className="mid-card">
                         <ServiceCard 

@@ -1,19 +1,21 @@
 import React from 'react';
 import styled from 'styled-components';
 
-function Button({filter, button}) {
+
+function Button({ filter, button }) {
     return (
-        <ButtonsStyled>
-            {
-                button.map((but, i) =>{
-                    return <ButtonStyled key={i} onClick={() => filter(but)}>
-                        {but}
-                    </ButtonStyled>
-                })
-            }
-        </ButtonsStyled>
-    )
-}
+      <ButtonsStyled>
+        {button &&
+          button.map((but, i) => {
+            return (
+              <ButtonStyled key={i} onClick={() => filter(but)}>
+                {but}
+              </ButtonStyled>
+            );
+          })}
+      </ButtonsStyled>
+    );
+  }
 
 const ButtonStyled = styled.button`
     outline: none;

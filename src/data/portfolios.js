@@ -6,6 +6,7 @@ import avatar from '../img/portImages/avatar.jpg';
 import ufc from '../img/portImages/ufc.jpg';
 import police from '../img/portImages/police.jpg';
 import maize from '../img/portImages/maize.jpg';
+import health from '../img/portImages/health.jpg';
 
 
 
@@ -80,7 +81,7 @@ const portfolios = [
     {
         id: 11,
         category: 'Data Analysis',
-        image: maize,
+        image: health,
         link1: 'https://eddygitonga.shinyapps.io/health/',
         title: 'WHO Data Health ',
         text: 'Health data analysis from WHO'

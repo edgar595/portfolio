@@ -76,6 +76,14 @@ const portfolios = [
         title: 'Maize production between 2012-2018',
         text: 'It gives a brief summary of the arrests '
     }
+    {
+        id: 10,
+        category: 'Data Analysis',
+        image: maize,
+        link1: 'https://eddygitonga.shinyapps.io/health/',
+        title: 'WHO Health Data',
+        text: 'Its analysis of the World health '
+    }
     
 ]
 

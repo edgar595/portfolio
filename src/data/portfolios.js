@@ -76,9 +76,9 @@ const portfolios = [
         link1: 'https://edgarmugambi.shinyapps.io/Maize/?_ga=2.120686410.398939380.1684150047-101558797.1684150047',
         title: 'Maize production between 2012-2018',
         text: 'It gives a brief summary of the arrests '
-    }
+    },
     {
-        id: 10,
+        id: 11,
         category: 'Data Analysis',
         image: health,
         link1: 'https://eddygitonga.shinyapps.io/health/',

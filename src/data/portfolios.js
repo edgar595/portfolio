@@ -7,6 +7,7 @@ import ufc from '../img/portImages/ufc.jpg';
 import police from '../img/portImages/police.jpg';
 import maize from '../img/portImages/maize.jpg';
 import health from '../img/portImages/health.jpg';
+import download from '../img/portImages/download.jpg';
 
 
 
@@ -85,8 +86,15 @@ const portfolios = [
         link1: 'https://eddygitonga.shinyapps.io/health/',
         title: 'WHO Data Health ',
         text: 'Health data analysis from WHO'
+    },
+    {
+        id: 12,
+        category: 'Data Analysis',
+        image: download,
+        link1: 'https://eddygitonga.shinyapps.io/loan/',
+        title: 'loan prediction  ',
+        text: 'credit data analysis'
     }
-    
 ]
 
 export default portfolios;

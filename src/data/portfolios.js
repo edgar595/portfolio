@@ -101,7 +101,7 @@ const portfolios = [
         image: excel1,
         link1: 'https://docs.google.com/spreadsheets/d/1Nwu8BdtLfphhjxI37RTzuCRvDIWToywx/edit?usp=sharing&ouid=104732726743410552243&rtpof=true&sd=true',
         title: 'Sales using excel ',
-        text: 'to view it well use excel office'
+        text: 'the link is to a spreadsheet download the excel file'
     }
 ]
 

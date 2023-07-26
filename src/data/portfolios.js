@@ -8,7 +8,7 @@ import police from '../img/portImages/police.jpg';
 import maize from '../img/portImages/maize.jpg';
 import health from '../img/portImages/health.jpg';
 import download from '../img/portImages/download.jpg';
-
+import excel1 from '../img/portImages/excel1.png';
 
 
 
@@ -94,6 +94,14 @@ const portfolios = [
         link1: 'https://eddygitonga.shinyapps.io/loan/',
         title: 'loan prediction  ',
         text: 'credit data analysis'
+    },
+    {
+        id: 13,
+        category: 'Data Analysis',
+        image: excel1,
+        link1: 'https://docs.google.com/spreadsheets/d/1Nwu8BdtLfphhjxI37RTzuCRvDIWToywx/edit?usp=sharing&ouid=104732726743410552243&rtpof=true&sd=true',
+        title: 'Sales using excel ',
+        text: 'to view it well use excel office'
     }
 ]
 

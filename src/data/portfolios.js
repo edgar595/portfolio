@@ -107,7 +107,7 @@ const portfolios = [
     {
         id: 14,
         category: 'Data Analysis',
-        image: finance,
+        image: download,
         link1: 'https://eddygitonga.shinyapps.io/sales/',
         title: 'Company sales ',
         text: 'Company statistics'

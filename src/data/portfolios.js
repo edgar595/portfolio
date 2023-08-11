@@ -102,6 +102,14 @@ const portfolios = [
         link1: 'https://docs.google.com/spreadsheets/d/1Nwu8BdtLfphhjxI37RTzuCRvDIWToywx/edit?usp=sharing&ouid=104732726743410552243&rtpof=true&sd=true',
         title: 'Sales using excel ',
         text: 'the link is to a spreadsheet download the excel file'
+    },
+    {
+        id: 14,
+        category: 'Data Analysis',
+        image: excel1,
+        link1: 'https://eddygitonga.shinyapps.io/sales/',
+        title: 'Company sales ',
+        text: 'Company statistics'
     }
 ]
 

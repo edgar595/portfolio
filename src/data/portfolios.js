@@ -9,6 +9,7 @@ import maize from '../img/portImages/maize.jpg';
 import health from '../img/portImages/health.jpg';
 import download from '../img/portImages/download.jpg';
 import excel1 from '../img/portImages/excel1.png';
+import finance from '../img/portImages/finance.png';
 
 
 
@@ -106,7 +107,7 @@ const portfolios = [
     {
         id: 14,
         category: 'Data Analysis',
-        image: excel1,
+        image: finance,
         link1: 'https://eddygitonga.shinyapps.io/sales/',
         title: 'Company sales ',
         text: 'Company statistics'

@@ -11,7 +11,7 @@ const blogs = [
         date: '01',
         month: 'April',
         image: blog1,
-        link: 'https://docs.google.com/document/d/1727uCGANTnZpH_07xkU6PebuIUBFqL4uNUQTNvbdBbY/edit?usp=sharing'
+        link: 'https://drive.google.com/file/d/1MgAnCv_0b5Vc3Sp1eAM2YmYWTUDHtUiC/view?usp=sharing'
     },
     {
         id: 2,

@@ -7,10 +7,11 @@ import blog5 from  '../img/blogs/blog5.svg';
 const blogs = [
     {
         id: 1,
-        title: 'How To Work from Home',
+        title: 'Face Recognition',
         date: '01',
         month: 'April',
-        image: blog1
+        image: blog1,
+        link: 'https://docs.google.com/document/d/1727uCGANTnZpH_07xkU6PebuIUBFqL4uNUQTNvbdBbY/edit?usp=sharing'
     },
     {
         id: 2,

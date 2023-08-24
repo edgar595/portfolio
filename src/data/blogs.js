@@ -15,11 +15,11 @@ const blogs = [
     },
     {
         id: 2,
-        title: 'How To Use SEO Efficiently',
+        title: 'Flights',
         date: '01',
         month: 'April',
         image: blog2,
-        link: 'https://drive.google.com/file/d/1voKeRWjYP4G0cf-Dbfvd9yqvCut8M8GW/view?usp=drive_link'
+        link: 'https://drive.google.com/file/d/1OGYBe_9YHbTZQBjN9xvf4iGliL2aBLvW/view?usp=sharing'
     },
     {
         id: 3,

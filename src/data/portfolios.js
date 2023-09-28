@@ -116,7 +116,7 @@ const portfolios = [
     {
         id: 15,
         category: 'Data Analysis',
-        image: download,
+        image: terrorism,
         link1: 'http://edgarmugambi.pythonanywhere.com/',
         title: 'Crime Analysis Python',
         text: 'Crime Exploratory Anlaysis'

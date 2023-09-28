@@ -24,7 +24,7 @@ const portfolios = [
         text: 'Created with R to predict the speaker of the message and personality'
     },
     {
-        id: 15,
+        id: 2,
         category: 'Data Analysis',
         image: terrorism,
         link1: 'http://edgarmugambi.pythonanywhere.com/',
@@ -114,7 +114,7 @@ const portfolios = [
         text: 'Company statistics'
     },
        {
-        id: 2,
+        id: 15,
         category: 'React',
         image: img3,
         link1: 'https://app.netlify.com/sites/dollarbank/overview',

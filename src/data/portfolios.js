@@ -111,6 +111,14 @@ const portfolios = [
         link1: 'https://eddygitonga.shinyapps.io/sales/',
         title: 'Company sales ',
         text: 'Company statistics'
+    },
+    {
+        id: 15,
+        category: 'Data Analysis',
+        image: download,
+        link1: 'https://eddygitonga.shinyapps.io/sales/',
+        title: 'Crime Analysis Python',
+        text: 'Crime Exploratory Anlaysis'
     }
 ]
 

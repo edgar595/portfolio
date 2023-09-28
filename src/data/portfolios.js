@@ -24,12 +24,12 @@ const portfolios = [
         text: 'Created with R to predict the speaker of the message and personality'
     },
     {
-        id: 2,
-        category: 'React',
-        image: img3,
-        link1: 'https://app.netlify.com/sites/dollarbank/overview',
-        title: 'Dollar bank',
-        text: 'Web Application'
+        id: 15,
+        category: 'Data Analysis',
+        image: terrorism,
+        link1: 'http://edgarmugambi.pythonanywhere.com/',
+        title: 'Crime Analysis Python',
+        text: 'Crime Exploratory Anlaysis'
     },
     {
         id: 4,
@@ -113,13 +113,13 @@ const portfolios = [
         title: 'Company sales ',
         text: 'Company statistics'
     },
-    {
-        id: 15,
-        category: 'Data Analysis',
-        image: terrorism,
-        link1: 'http://edgarmugambi.pythonanywhere.com/',
-        title: 'Crime Analysis Python',
-        text: 'Crime Exploratory Anlaysis'
+       {
+        id: 2,
+        category: 'React',
+        image: img3,
+        link1: 'https://app.netlify.com/sites/dollarbank/overview',
+        title: 'Dollar bank',
+        text: 'Web Application'
     }
 ]
 

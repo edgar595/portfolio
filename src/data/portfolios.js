@@ -30,6 +30,14 @@ const portfolios = [
         text: 'Crime Exploratory Anlaysis'
     },
     {
+        id: 3,
+        category: 'Data Analysis',
+        image: airline,
+        link1: 'https://edd.pythonanywhere.com/',
+        title: 'Airline Analysis',
+        text: 'Airline Visualization and Sentiments based on tweets'
+    },
+    {
         id: 4,
         category: 'Data Analysis',
         image: pl,
@@ -118,14 +126,6 @@ const portfolios = [
         link1: 'https://app.netlify.com/sites/dollarbank/overview',
         title: 'Dollar bank',
         text: 'Web Application'
-    },
-    {
-        id: 16,
-        category: 'Data Analysis',
-        image: airline,
-        link1: 'https://edd.pythonanywhere.com/',
-        title: 'Airline Analysis',
-        text: 'Airline Visualization and Sentiments based on tweets'
     }
 ]
 

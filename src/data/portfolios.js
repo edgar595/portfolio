@@ -10,7 +10,7 @@ import health from '../img/portImages/health.jpg';
 import download from '../img/portImages/download.jpg';
 import excel1 from '../img/portImages/excel1.png';
 import terrorism from '../img/portImages/terrorism.jpg';
-import airplane from '../img/portImages/airplane.jpg';
+import airline from '../img/portImages/airline.jpg';
 
 const portfolios = [
     {
@@ -122,7 +122,7 @@ const portfolios = [
     {
         id: 16,
         category: 'Data Analysis',
-        image: img3,
+        image: airline,
         link1: 'https://edd.pythonanywhere.com/',
         title: 'Airline Analysis',
         text: 'Airline Visualization and Sentiments based on tweets'

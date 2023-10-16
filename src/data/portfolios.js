@@ -10,9 +10,7 @@ import health from '../img/portImages/health.jpg';
 import download from '../img/portImages/download.jpg';
 import excel1 from '../img/portImages/excel1.png';
 import terrorism from '../img/portImages/terrorism.jpg';
-
-
-
+import airplane from '../img/portImages/airplane.jpg';
 
 const portfolios = [
     {

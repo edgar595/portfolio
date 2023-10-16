@@ -122,7 +122,7 @@ const portfolios = [
     {
         id: 16,
         category: 'Data Analysis',
-        image: airline,
+        image: avatar,
         link1: 'https://edd.pythonanywhere.com/',
         title: 'Airline Analysis',
         text: 'Airline Visualization and Sentiments based on tweets'

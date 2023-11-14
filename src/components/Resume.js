@@ -18,9 +18,15 @@ function Resume() {
                     <SmallTitle icon={briefcase} title={'Working Experience'} />
                 </div>
                 <div className="resume-content">
+              <ResumeItem 
+                        year={'August 2023 - Present'} 
+                        title={'Data Scientist'}
+                        subTitle={'African Union'}
+                        text={' Provide technical assistance on data management and analysis, Installing, configuring, and upgrading computer systems and software, Modelling data in the most appropriate models possible to answer business questions, Perform data analysis to understand product performance and get insights to inform strategy and business decisions, Delivery of Data Analytics solutions using common data science toolkits, such as Python and R, Develop predictive models to forecast future trends based on historical data, using techniques like machine learning algorithms, Identify, analyze, and interpret trends or patterns in complex data sets, Manage complex information system and data analytical projects, Implement approaches to harmonize unaligned datasets to support analysis and data-driven decision making '} 
+                    />
                    
                 <ResumeItem 
-                        year={'January 2022 - March 2023'} 
+                        year={'January 2022 - July 2023'} 
                         title={'ICT Analyst'}
                         subTitle={'National Biosafety Authority'}
                         text={' My duties included: Provide first level Support by resolving incident, troubleshooting and fixing any system related problems, Ensure that equipment, accounts and software for new users are set up and configured in line with organization standards, Maintaining data integrity, security and access-monitoring user access developing and maintaining system security in line with standards and ensuring compliance to all standards. Controlling access permissions and privileges of users as per policy regulations , Ensuring data security in the system, educating users on cyber security and data loss prevention protection and encryption, Designing and implementing scalable and cost-effective architectural solutions for on-premises and cloud-managed services, Analyzing, evaluating and monitoring network infrastructure to ensure networks are configured to operate at optimal performance, '} 

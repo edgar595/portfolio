@@ -11,6 +11,7 @@ import download from '../img/portImages/download.jpg';
 import excel1 from '../img/portImages/excel1.png';
 import terrorism from '../img/portImages/terrorism.jpg';
 import airline from '../img/portImages/airline.jpg';
+import ball from '../img/portImages/ball.jpg';
 
 const portfolios = [
     {
@@ -47,7 +48,7 @@ const portfolios = [
     },    {
         id: 5,
         category: 'Data Analysis',
-        image: pl,
+        image: ball,
         link1: 'http://memzy.pythonanywhere.com/',
         title: 'Football Predictions Using Machine Learning',
         text: 'Predicting Goals scored and Outcomes of a game'

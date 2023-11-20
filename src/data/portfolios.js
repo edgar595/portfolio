@@ -44,9 +44,14 @@ const portfolios = [
         link1: 'https://edgarmugambi.shinyapps.io/eplGame/?_ga=2.180402531.531471333.1683550421-51971680.1682322687',
         title: 'EPL visualization and prediction',
         text: 'It contains data of the premier league between 1992 - 2022'
+    },    {
+        id: 5,
+        category: 'Data Analysis',
+        image: pl,
+        link1: 'http://memzy.pythonanywhere.com/',
+        title: 'Football Predictions Using Machine Learning',
+        text: 'Predicting Goals scored and Outcomes of a game'
     },
-    
-    
     {
         id: 6,
         category: 'React',

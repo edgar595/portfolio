@@ -128,10 +128,10 @@ const portfolios = [
         {
         id: 15,
         category: 'Data Analysis',
-        image: download,
+        image: excel1,
         link1: 'https://docs.google.com/spreadsheets/d/1LR-V8UZ8WquaIKwhgPwwzgrNwUg938z4/edit?usp=drive_link&ouid=104732726743410552243&rtpof=true&sd=true',
         title: 'Financial Data ',
-        text: 'Financial data of companies'
+        text: 'Financial data of companies- download it for best viewing' 
     },
        {
         id: 16,

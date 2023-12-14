@@ -125,8 +125,16 @@ const portfolios = [
         title: 'Company sales ',
         text: 'Company statistics'
     },
-       {
+        {
         id: 15,
+        category: 'Data Analysis',
+        image: download,
+        link1: 'https://docs.google.com/spreadsheets/d/1LR-V8UZ8WquaIKwhgPwwzgrNwUg938z4/edit?usp=drive_link&ouid=104732726743410552243&rtpof=true&sd=true',
+        title: 'Financial Data ',
+        text: 'Financial data of companies'
+    },
+       {
+        id: 16,
         category: 'React',
         image: img3,
         link1: 'https://app.netlify.com/sites/dollarbank/overview',

@@ -12,6 +12,7 @@ import excel1 from '../img/portImages/excel1.png';
 import terrorism from '../img/portImages/terrorism.jpg';
 import airline from '../img/portImages/airline.jpg';
 import ball from '../img/portImages/ball.jpg';
+import sec from '../img/portImages/sec.jpg';
 
 const portfolios = [
     {
@@ -133,8 +134,16 @@ const portfolios = [
         title: 'Financial Data ',
         text: 'Financial data of companies- download it for best viewing' 
     },
-       {
+    {
         id: 16,
+        category: 'Data Analysis',
+        image: sec,
+        link1: 'https://edgarmuga.shinyapps.io/authent/',
+        title: 'Authenticate R users with firebase',
+        text: 'Authentication and Visualization'
+    },
+       {
+        id: 17,
         category: 'React',
         image: img3,
         link1: 'https://app.netlify.com/sites/dollarbank/overview',
